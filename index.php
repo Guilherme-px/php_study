@@ -23,27 +23,63 @@
         <div class="content">
             <nav class="modules">
                 <div class="module">
-                    <h3>Basic</h3>
+                    <h3>4. Control</h3>
                     <ul>
                         <li>
-                            <a href="exercise.php?dir=basic&file=hello">Hello PHP</a>
+                            <a href="exercise.php?dir=control&file=if_else">If else</a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=basic&file=html">HTML integration</a>
+                            <a href="exercise.php?dir=control&file=relational_operators">Relational operators</a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=basic&file=css">Css integration</a>
+                            <a href="exercise.php?dir=control&file=PI_challenge">PI challenge</a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=basic&file=comments">PHP comments</a>
+                            <a href="exercise.php?dir=control&file=logical_operators">Logical operators</a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=basic&file=challenge">PHP challenge</a>
+                            <a href="exercise.php?dir=control&file=challenge_logical_op">
+                                Challenge logical operators
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=ternary_operator">
+                                Ternary operator
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=switch">Switch</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=challenge_switch">Challenge_switch</a>
                         </li>
                     </ul>
                 </div>
                 <div class="module">
-                    <h3>Types</h3>
+                    <h3>3. Variables</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=basic">Basic of variables</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=challenge_equation">Challenge equation</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=assignments">Assignments</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=interpolation">Interpolation</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=value_reference">Value vs reference</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=constant">Constants</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="module">
+                    <h3>2. Types</h3>
                     <ul>
                         <li>
                             <a href="exercise.php?dir=types&file=int">Integer type</a>
@@ -72,25 +108,22 @@
                     </ul>
                 </div>
                 <div class="module">
-                    <h3>Variables</h3>
+                    <h3>1. Basic</h3>
                     <ul>
                         <li>
-                            <a href="exercise.php?dir=variables&file=basic">Basic of variables</a>
+                            <a href="exercise.php?dir=basic&file=hello">Hello PHP</a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=variables&file=challenge_equation">Challenge equation</a>
+                            <a href="exercise.php?dir=basic&file=html">HTML integration</a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=variables&file=assignments">Assignments</a>
+                            <a href="exercise.php?dir=basic&file=css">Css integration</a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=variables&file=interpolation">Interpolation</a>
+                            <a href="exercise.php?dir=basic&file=comments">PHP comments</a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=variables&file=value_reference">Value vs reference</a>
-                        </li>
-                        <li>
-                            <a href="exercise.php?dir=variables&file=constant">Constants</a>
+                            <a href="exercise.php?dir=basic&file=challenge">PHP challenge</a>
                         </li>
                     </ul>
                 </div>
