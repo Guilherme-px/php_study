@@ -23,6 +23,29 @@
         <div class="content">
             <nav class="modules">
                 <div class="module">
+                    <h3>6. Repetition</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=repetition&file=for">For</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=repetition&file=challenge_for">Challenge for</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=repetition&file=foreach">Foreach</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=repetition&file=break_continue">Break/Continue</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=repetition&file=print_challenge">Print challenge</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=repetition&file=while">While / Do while</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="module">
                     <h3>5. Array</h3>
                     <ul>
                         <li>
