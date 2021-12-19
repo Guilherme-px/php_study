@@ -23,6 +23,44 @@
         <div class="content">
             <nav class="modules">
                 <div class="module">
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=array&file=basic">Array basics</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=map">Map</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=index_challenge">Index challenge</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=challenge_months">Challenge months</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=operations">Operations</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=giveaway_challenge">Giveaway challenge</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=mult">Multidimensional</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=const">Constant</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=get">Get</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=post">Post</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=comparison">Comparison</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="module">
                     <h3>4. Control</h3>
                     <ul>
                         <li>
