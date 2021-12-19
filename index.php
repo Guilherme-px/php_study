@@ -23,6 +23,47 @@
         <div class="content">
             <nav class="modules">
                 <div class="module">
+                    <h3>7. Function</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=function&file=function_scope">Function and scope</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=args">Arguments and returns</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=palindrome_challenge">Palindrome challenge</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=variable_args">Variable arguments</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=default_args">Default argument</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=types">Using types</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=anonymous">Anonymous functions</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=closure_callable">Closure & callable</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=recursion">Recursion</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=recursion_challenge">Recursion challenge</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=returning_function">Returning a function</a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=function&file=map_filter">Map & filter</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="module">
                     <h3>6. Repetition</h3>
                     <ul>
                         <li>
